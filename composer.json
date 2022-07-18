@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": "^7.2",
+    "php": "^8.0",
     "api-clients/command-bus": "^2.0",
     "clue/block-react": "^1.1",
     "jean85/pretty-package-versions": "^1.0",
