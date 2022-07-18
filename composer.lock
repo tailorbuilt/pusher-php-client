@@ -27,7 +27,7 @@
                 "league/tactician": "^1.0",
                 "league/tactician-container": "^2.0 || ^1.0",
                 "ocramius/package-versions": "^1.3",
-                "php": "^7.2",
+                "php": "^8.0",
                 "react/event-loop": "^1.0 || ^0.5 || ^0.4.2",
                 "wyrihaximus/iterator-or-array-to-array": "^1.0",
                 "wyrihaximus/string-get-in": "^1.0",
@@ -157,7 +157,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.0"
+                "php": ">=8.0"
             },
             "type": "library",
             "autoload": {
